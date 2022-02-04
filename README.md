@@ -1,4 +1,4 @@
-# Client_rest_api
+# Client REST API
 
 Client Rest API Technical Assessment
 
