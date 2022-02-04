@@ -1,6 +1,5 @@
 # Client_rest_api
 
-
 Client Rest API Technical Assessment
 
 Backend Service that exposes 2 REST APIs
@@ -13,7 +12,7 @@ Backend Service that exposes 2 REST APIs
 ## Prerequisites
 
 * Install [Java SDK](https://openjdk.java.net/)
-  * [Java SDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Required only for JUnit tests using CodeSV mock services.
+* [Java SDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Required only for JUnit tests using CodeSV mock services.
 * Install [Apache Maven](https://maven.apache.org/install.html)
 * Install Intellij/Eclipse , [Spring Tools Suite](https://spring.io/tools) or [IntelliJ](https://www.jetbrains.com/idea/)
 Install [Lombok](https://projectlombok.org/) Plugin to your favourite IDE - Lombok allows you to never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.
